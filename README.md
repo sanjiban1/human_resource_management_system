@@ -1,0 +1,2 @@
+# human_resource_management_system
+HR management system fully developed in php. This management system can help any  organization/company to keep the records of employees. There are separate login credentials for  admin, hr., user, accountants, and managers. Accountants also can keep tracks of employee’s salary can add bank details etc. In this management system some features has been added like,  loan management, attendance tracking, employee full details with pictures, loan collection and  auto calculations etc.
